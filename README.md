@@ -1,0 +1,2 @@
+# CucuAuto
+Sample Automation project
